@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="actionbar_color">#1e87e4</color>
+    <color name="actionbar_color_primary">#1876c9</color>
+    <color name="divider_color">#1f000000</color>
+    <color name="black_87">#de000000</color>
+    <color name="black_38">#61000000</color>
+    <color name="ColorPrimary">#1e87e4</color>
+    <color name="ColorPrimaryDark">#1876c9</color>
+    <color name="fab_main_color">#1976D2</color>
+
+    <color name="editaddress_label_color">#b6b6b6</color>
+    <color name="editText_hint_color">#b6b6b6</color>
+    <color name="editText_text_color">#212121</color>
+    <color name="editaddress_et_hint_color">#b6b6b6</color>
+    <color name="editaddress_et_text_color">#727272</color>
+
+
+
+    <color name="grocery_product_name_tv_color">#212121</color>
+    <color name="edittext_text_color">#DE000000</color>
+    <color name="edittext_hint_color">#61000000</color>
+    <color name="signup_btn_text_color">#61000000</color>
+    <color name="glocery_slot_selected_color">#8bc34a</color>
+    <color name="glocery_slot_normal_color">#b6b6b6</color>
+    <color name="glocery_slot_text_color">#8bc34a</color>
+    <color name="heading_label_color">#de2196f3</color>
+    <color name="signup_sub_heading_color">#E1000000</color>
+    <color name="row_reply_text_color">#212121</color>
+    <color name="KeyboardBorder">#80000000</color>
+    <color name="KeyboardBackgroundSelected">#1e87e4</color>
+    <color name="KeyboardBackground">#ffffff</color>
+    <color name="dialog_bg_color">#80000000</color>
+
+    <color name="circle_fill_color">#727272</color>
+    <color name="circle_empty_color">#b6b6b6</color>
+
+    <color name="enter_referral_code_continue_btn_txt_color">#FFFFFF</color>
+    <color name="enter_referral_code_continue_btn_bg_selected">#BF8BC34A</color>
+    <color name="enter_referral_code_continue_btn_bg_normal">#8BC34A</color>
+    <color name="referral_continue_btn_disable">#b6b6b6</color>
+    <color name="enter_referral_code_edit_text_bg_color">#1e000000</color>
+    <color name="referral_code_have_a_promo_code_bg_color">#89000000</color>
+
+    <color name="primary" type="color">#ff259b24</color>
+    <color name="primarydark" type="color">#ff0a7e07</color>
+    <color name="accent">#ff0091ea</color>
+    <color name="primarytext" type="color">#de000000</color>
+    <color name="secondarytext" type="color">#8a000000</color>
+    <color name="ondarktext" type="color">#fffafafa</color>
+    <color name="primarybackground" type="color">#fffafafa</color>
+    <color name="secondarybackground" type="color">#ffeeeeee</color>
+    <color name="darkbackground" type="color">#ff323232</color>
+    <color name="divider">#1f000000</color>
+    <color name="rating_divider">#80b6b6b6</color>
+    <color name="rating_btn_enable_color">#2196f3</color>
+    <color name="rating_btn_disable_color">#b6b6b6</color>
+    <color name="red">#fff44336</color>
+    <color name="orange">#ffff9800</color>
+    <color name="green">#ff259b24</color>
+    <color name="ButtonBorder">#ecf0ef</color>
+
+    <color name="blue_800">#187bd3</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_400">#42A5F5</color>
+    <color name="green_500">#53B958</color>
+    <color name="grocery_add_btn_color">#ff9800</color>
+    <color name="grocery_cart_disable_color">#b6b6b6</color>
+    <color name="grocery_disable_stub_color">#f5f5f5</color>
+    <color name="green_800">#ff13aa18</color>
+    <color name="disabled_gray">#ffF6F6F6</color>
+    <color name="disabled_btn_green">#b6b6b6</color>
+    <color name="cancel_btn_normal">#b6b6b6</color>
+    <color name="cancel_btn_pressed">#80b6b6b6</color>
+    <color name="cancel_btn_textcolor">#aaa</color>
+    <color name="primary_text_color_link">#0067e6</color>
+    <color name="transparent_black">#7f000000</color>
+
+    <color name="common_border_color">#dadada</color>
+    <color name="bottom_section_color">#f0f3f5</color>
+    <color name="bottom_section_color_pressed">#808080</color>
+    <color name="text_ab_ab_ab">#ababab</color>
+    <color name="blue_txt_color">#1e87e4</color>
+    <color name="grey_79">#797979</color>
+    <color name="grey_60">#999999</color>
+    <color name="msg_pic_background">#f2f2f2</color>
+    <color name="light_grey">#e1e1e1</color>
+    <color name="white">#ffffff</color>
+    <color name="msg_time_text_color">#63000000</color>
+    <color name="banner_message_background">#ffffff</color>
+
+    <!-- My Orders-->
+    <color name="vendor_image_baground">#e9e9e9</color>
+    <color name="order_background">#efefef</color>
+    <color name="black">#000000</color>
+
+    <color name="form_text">#2d353c</color>
+    <color name="form_secondary_text">#c7c9cb</color>
+    <color name="form_caption_text">#8c9399</color>
+
+    <!--<color name="moe_notification_color">#ff5ee768</color>-->
+
+
+    <!-- Deals -->
+    <color name="deals_item_amount_text_color">#000000</color>
+    <color name="deals_item_valid_till_text_color">#61000000</color>
+    <color name="deals_item_divider_color">#1F000000</color>
+    <color name="deals_list_empty_deals_message_color">#8A000000</color>
+    <color name="deals_list_empty_bg">#f2f4f4</color>
+
+    <!-- Deal details screen -->
+    <color name="deal_details_avail_btn_bg_color">#2196F3</color>
+    <color name="deal_details_avail_offer_txt_color">#FFFFFF</color>
+    <color name="deal_details_bg">#FFFFFF</color>
+    <color name="deal_details_image_bg">#fafafa</color>
+    <color name="deals_details_offer_label_text_color">#61000000</color>
+    <color name="deals_details_offer_value_text_color">#8A000000</color>
+    <color name="deals_details_valid_till_label_text_color">#61000000</color>
+    <color name="deals_details_valid_till_value_text_color">#8A000000</color>
+    <color name="deals_details_description_text_color">#DE000000</color>
+
+    <!-- Deals location screen -->
+    <color name="deal_location_item_text_color">#DE000000</color>
+    <color name="deal_location_list_divider_color">#1F000000</color>
+
+
+    <color name="continue_chatting_text_color">#FFFFFF</color>
+    <color name="deals_continue_watching_btn_selected_bg_color">#BF8BC34A</color>
+    <color name="deals_continue_watching_btn_normal_bg_color">#8BC34A</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="paytm_button_disabled">#b6b6b6</color>
+    <color name="paytm_textcolor_disabled">#b2ffffff</color>
+    <color name="dark_gray">#657383</color>
+
+
+    <!--flight booking-->
+
+    <color name="transparent">#00000000</color>
+
+    <color name="blue">#1e87e4</color>
+    <color name="blue.darker">#FF2084E4</color>
+    <color name="tint.effect">#739cb9df</color>
+    <color name="toolbar.shadow.color">#40333333</color>
+    <color name="fragment.person.form.layout.bg">#e5ffffff</color>
+
+    <color name="search.flight.titles.text.color">#212121</color>
+    <color name="search.flight.values.text.color">#cfcfcf</color>
+    <color name="search.flight.seperator.line.color">#1F000000</color>
+
+    <color name="sorting.layout.text.dim.color">#40333333</color>
+    <color name="sorting.layout.text.dark.color">#000000</color>
+    <color name="sorting.layout.text.selected.color">#2196F3</color>
+
+    <color name="sorting.layout.selected.background.color">#f5f5f5</color>
+    <color name="remote.layout.date.color">#616161</color>
+    <color name="remote.layout.flight.name.color">#616161</color>
+    <color name="remote.layout.traveller.and.class.color">#61000000</color>
+    <color name="remote.layout.flight.model.color">#61000000</color>
+    <color name="remote.layout.place.name.color">#dd000000</color>
+    <color name="remote.layout.rupee.color">#dd000000</color>
+    <color name="remote.layout.place.timing.stopage.color">#8a000000</color>
+
+    <!--Flight booking material date time picker-->
+    <color name="mdtp_white">#ffffff</color>
+    <color name="mdtp_background_color">@color/mdtp_white</color>
+    <color name="mdtp_circle_background">@color/mdtp_background_color</color>
+    <color name="mdtp_circle_color">#f5f5f5</color>
+    <color name="mdtp_line_background">#cccccc</color>
+    <color name="mdtp_ampm_text_color">@color/mdtp_numbers_text_color</color>
+    <color name="mdtp_done_text_color_normal">#ff212121</color>
+    <color name="mdtp_done_text_color_disabled">#cccccc</color>
+    <color name="mdtp_numbers_text_color">#ff212121</color>
+
+    <color name="mdtp_transparent_black">#7f000000</color>
+    <color name="mdtp_accent_color">#009688</color>
+    <color name="mdtp_accent_color_focused">#76ffffff</color>
+    <color name="mdtp_neutral_pressed">#33999999</color>
+    <color name="mdtp_accent_color_dark">#00796e</color>
+    <color name="mdtp_date_picker_text_normal">#ff212121</color>
+    <color name="mdtp_date_picker_text_disabled">#ccc</color>
+    <color name="mdtp_date_picker_month_day">#767676</color>
+    <color name="mdtp_light_gray">#424242</color>
+    <color name="mdtp_dark_gray">#323232</color>
+    <color name="mdtp_line_dark">#808080</color>
+    <color name="mdtp_done_text_color_dark_normal">#ffffff</color>
+    <color name="mdtp_done_text_color_dark_disabled">#888888</color>
+    <color name="mdtp_done_disabled_dark">#bfbfbf</color>
+    <color name="booger">#8bc34a</color>
+    <color name="flight_button_color">#ff9800</color>
+    <color name="checkout_btn_color">#ce5e57</color>
+</resources>

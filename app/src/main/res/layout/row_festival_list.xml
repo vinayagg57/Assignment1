@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:font="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/row_order_list"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+<ImageView
+    android:id="@+id/festival_list_imv_type"
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+    android:layout_centerVertical="true"
+    android:background="@color/vendor_image_baground"
+    android:contentDescription="festival_name_image"
+    android:src="@drawable/ic_date_range_black_24dp"/>
+        <!--<ImageView-->
+            <!--android:id="@+id/festival_list_imv_type"-->
+            <!--android:layout_width="40dp"-->
+            <!--android:layout_height="40dp"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:background="@color/vendor_image_baground"-->
+            <!--android:contentDescription="festival_name_image"-->
+            <!--android:src="@drawable/ic_selected_rating_1" />-->
+<LinearLayout
+    android:layout_width="270dp"
+    android:orientation="vertical"
+    android:paddingLeft="26dp"
+
+    android:layout_height="wrap_content">
+       <TextView
+            android:id="@+id/festival_title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/festival_list_imv_type"
+            android:text="Category"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+      <!--<TextView-->
+            <!--android:id="@+id/orderlist_tv_date"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:text="27/10/16"-->
+            <!--android:textColor="#727272"-->
+            <!--android:textSize="12sp" />-->
+
+
+   <TextView
+        android:id="@+id/festivallist_tv_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_marginTop="4dp"
+        android:text="Date"
+        android:textColor="#727272"
+        android:textSize="14sp" />
+
+</LinearLayout>
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginRight="18dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_alarm_on_black_18dp"/>
+    </LinearLayout>
+    <View
+        android:layout_marginTop="5dp"
+        android:id="@+id/festival_list_divider"
+        android:layout_width="match_parent"
+        android:layout_marginRight="16dp"
+        android:visibility="gone"
+        android:layout_height="1dp"
+        android:background="#1f000000"></View>
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_options">
+        <item>Calendar</item>
+        <item>Festival List</item>
+        <item>Aartis</item>
+        <item>Rate Us</item>
+        <item>About</item>
+    </string-array>
+
+
+    <string-array name="festival_names">
+        <item>Calendar</item>
+        <item>Festival List</item>
+        <item>Aartis</item>
+        <item>Rate Us</item>
+        <item>About</item>
+    </string-array>
+
+
+</resources>
